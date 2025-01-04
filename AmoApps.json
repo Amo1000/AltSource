@@ -4,7 +4,7 @@
   "iconURL": "https://avatars.githubusercontent.com/u/100276567?v=4",
   "headerURL": "https://avatars.githubusercontent.com/u/100276567?v=4",
   "website": "https://amo1000.github.io/",
-  "tintColor": "#2e71b8",
+  "tintColor": "#0c293e",
   "identifier": "com.amoapps.source",
   "apps": [
     {
@@ -26,6 +26,19 @@
         "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
         "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
       ]
+    }
+  ]
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "new_feature",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2025-01-1",
+      "tintColor": "#F54F32",
+      "imageURL": "https://avatars.githubusercontent.com/u/100276567?v=4",
+      "notify": true,
+      "url": "https://avatars.githubusercontent.com/u/100276567?v=4",
+      "appID": "com.example.myapp"
     }
   ]
 }
