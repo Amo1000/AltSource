@@ -1,5 +1,10 @@
 {
   "name": "Amo's Apps",
+  "description": "A source with a bunch of different apps",
+  "iconURL": "https://avatars.githubusercontent.com/u/100276567?v=4",
+  "headerURL": "https://avatars.githubusercontent.com/u/100276567?v=4",
+  "website": "https://amo1000.github.io/",
+  "tintColor": "#2e71b8",
   "identifier": "com.amoapps.source",
   "apps": [
     {
