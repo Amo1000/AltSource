@@ -9,36 +9,32 @@
   "apps": [
     {
       "beta": false,
-      "name": "Flycast",
-      "bundleIdentifier": "com.flyinghead.Flycast",
-      "developerName": "Flyinghead",
-      "subtitle": "Dreamcast, Naomi and Atomiswave emulator.",
-      "version": "v2.4",
-      "versionDate": "2024-10-23T15:39:00+02:00",
-      "versionDescription": "Retro achievements, improved UI",
-      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.4/Flycast-2.4.ipa",
+      "name": "Ignited",
+      "bundleIdentifier": "com.ignited.amoapps",
+      "developerName": "Litritt",
+      "subtitle": "Multi-core emulator front-end for iOS devices",
+      "version": "v1.10",
+      "versionDate": "20240327T000000Z",
+      "versionDescription": "Most recent version of ignited",
+      "downloadURL": "https://cdn.ignitedemulator.com/versions/1.10/Ignited.ipa",
       "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
-      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
-      "tintColor": "#9b54fd",
-      "size": 7885887,
+      "iconURL": "https://docs.ignitedemulator.com/~gitbook/image?url=https%3A%2F%2F4146272248-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjJ8hHkIFPvsicVH5hvBk%252Ficon%252F141qHGzlfSHHQiMOryQx%252Ficon-180.png%3Falt%3Dmedia%26token%3Db2ad8b89-67ce-4025-8cfb-a90a077589af&width=32&dpr=1&quality=100&sign=f40f746b&sv=2",
+      "tintColor": "#ed7238",
       "screenshotURLs": [
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+        "https://www.litritt.com/assets/images/ignited-banner.png"
       ]
     }
   ],
   "news": [
     {
-      "title": "Test",
+      "title": "Thanks for using My Source",
       "identifier": "iuahjkd",
-      "caption": "Introducing a new feature in AltStore!",
+      "caption": "Created of the 4th of Jan 2025",
       "date": "2025-01-04T06:48:04Z",
-      "tintColor": "#9b54fd",
+      "tintColor": "#0c293e",
       "imageURL": "https://avatars.githubusercontent.com/u/100276567?v=4",
-      "notify": true,
-      "url": "https://avatars.githubusercontent.com/u/100276567?v=4",
-      "appID": "com.example.myapp"
+      "notify": false,
+      "url": "https://avatars.githubusercontent.com/u/100276567?v=4"
     }
   ]
 }
