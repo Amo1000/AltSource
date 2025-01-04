@@ -10,7 +10,7 @@
     {
       "beta": false,
       "name": "Ignited",
-      "bundleIdentifier": "com.ignited.amoapps",
+      "bundleIdentifier": "com.litritt.ignited",
       "developerName": "Litritt",
       "subtitle": "Multi-core emulator front-end for iOS devices",
       "version": "v1.10",
